@@ -238,4 +238,7 @@ cmake -G "Visual Studio 12 Win64" ..
 ```
 
 And then do Build.
+
+Tested on Mac OS Mojave 10.14.5 and Debian 10
+
 Good luck!
